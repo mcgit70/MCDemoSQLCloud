@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <value name="http://MCHOST1X.localdomain:15555">0f0929c7-0bed-4764-849d-5d84949e94d9</value>
+  </record>
+</IDataXMLCoder>
